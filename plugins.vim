@@ -8,6 +8,7 @@ Plugin 'jistr/vim-nerdtree-tabs'
 Plugin 'terryma/vim-multiple-cursors'
 Plugin 'lambdalisue/vim-bookmarks'
 Plugin 'thinca/vim-quickrun'
+Plugin 'taglist.vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
